@@ -1,6 +1,6 @@
 ## Anonymous
 
-Anonymous-Static is an easy to setup unblocker for you to deploy.
+mavs static is an easy to setup unblocker for you to deploy.
 
 ## About Anonymous
 
